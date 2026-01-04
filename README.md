@@ -3,7 +3,8 @@
 A lightweight **transaction stress & benchmarking toolkit** for Solana testnet, designed to explore **transaction behavior under concurrency**, RPC saturation, and execution patterns relevant to **Raiku-style deterministic transaction scheduling (JIT / AOT)**.
 
 > ⚠️ **Testnet only** — not intended for mainnet usage.
-
+<img src="https://imgur.com/ISur6ds"/>
+<img src="https://imgur.com/Iz8xv5h"/>
 ---
 
 ## 🎯 Purpose
@@ -243,3 +244,4 @@ For research & development purposes only
 This toolkit was built to explore transaction execution under load, with insights relevant to Raiku’s deterministic transaction vision.
 
 If you are part of the Raiku team and find this useful, happy to collaborate further 🙌
+
