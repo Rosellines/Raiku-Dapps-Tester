@@ -24,7 +24,7 @@ export async function runStressTest({
       const current = ++sent;
 
       try {
-        const tx = buildJITTx(wallet);
+        const tx = buildJITTx(wallet, current);
         const sig = await client.send(tx);
         log(`Worker ${id} → TX ${current}: ${sig}`);
       } catch (e: any) {
