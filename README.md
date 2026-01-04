@@ -27,6 +27,11 @@ This repository is **not a dApp**, but an **infra-oriented developer toolkit**.
 - ✅ Works with standard Solana RPC
 - ✅ Clean TypeScript codebase
 - ✅ Real-world testnet findings
+- ✅Explorer di Testnet
+- ✅ CLI di Testnet
+- ✅ App RPC di Testnet
+- ✅ Wallet funded di Testnet
+- ✅ TX pakai memo unik
 
 ---
 
